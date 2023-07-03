@@ -27,12 +27,10 @@ Algorithms
 
 ---
 ## Research
-    * Noise-robust estimation of the maximal Lyapunov exponent based on state space reconstruction 
-      with principal components
+    * Noise-robust estimation of the maximal Lyapunov exponent based on state space reconstruction with principal components
       - Submitted to "Chaos, Solitons & Fractals" and currently Under Review
 
-    * Test-Retest Reliability of the Maximal Lyapunov Exponent on Human Gait: Effect of Time Series,
-      Delay and Data Length
+    * Test-Retest Reliability of the Maximal Lyapunov Exponent on Human Gait: Effect of Time Series, Delay and Data Length
       - To be submitted to "Journal of Biomechanics"
 
 ---
