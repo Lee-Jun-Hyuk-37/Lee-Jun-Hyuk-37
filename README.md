@@ -1,8 +1,12 @@
 # Lee Jun Hyuk (이준혁) Profile
 
-<p float="left">
-  <img src="profile_image.jpg?raw=true" width="30.0%" />
-  ## Interests
+<div style="display: flex; align-items: center;">
+  <div style="flex: 30%; padding-right: 20px;">
+    <img src="profile_image.jpg?raw=true" width="30.0%" />
+  </div>
+  <div style="flex: 70%;">
+
+## Interests
   - Artificial Intelligence
   - Computer Vision
   - Computer Graphics
@@ -13,7 +17,9 @@
   - Chaos
   - Nonlinear Dynamics
   - Algorithms
-</p>
+  </div>
+</div>
+
 
 
 ## Education
