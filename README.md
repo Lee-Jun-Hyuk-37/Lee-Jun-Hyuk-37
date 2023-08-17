@@ -2,7 +2,6 @@
 
 <p float="left">
   <img src="profile_image.jpg?raw=true" width="30.0%" />
-
   ## Interests
   - Artificial Intelligence
   - Computer Vision
@@ -36,6 +35,7 @@
 
 
 * Test-Retest Reliability of the Maximal Lyapunov Exponent on Human Gait: Effect of Time Series, Delay and Data Length  
+
     To be submitted to "Journal of Biomechanics"
 
 
