@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td width="30%">
+    <td width="40%">
       <img src="profile_image.jpg?raw=true" width="100%" />
     </td>
-    <td width="70%">
+    <td width="60%">
 
 ## Interests
   - Artificial Intelligence
