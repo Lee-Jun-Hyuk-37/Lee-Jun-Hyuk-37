@@ -42,7 +42,7 @@ Exponent based on state space reconstruction with principal components.**
 ## Work Experiences
 
 - **Republic of Korea Navy** (Sep. 2023 - Present)  
-  _AI Develop Specialist_, Naval Intelligence Information System Group & Head Quarter Battalion
+  _AI Development Specialist_, Naval Intelligence Information System Group & Head Quarter Battalion
 - **NCSOFT** (Jan. 2023 - Feb. 2023)  
   _Intern_, Recognition team, Vision AI Lab
 - **Quve Seventeen** (Oct. 2021 - Feb. 2022)  
