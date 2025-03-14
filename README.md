@@ -8,8 +8,6 @@ AI Development Specialist
 Republic of Korea Navy  
 jmjh98@snu.ac.kr
 
-<img src="profile_image.jpg?raw=true" width="40%" />
-
 </div>
 
 ## Research Interests
