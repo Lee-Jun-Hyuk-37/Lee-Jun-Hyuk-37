@@ -4,17 +4,21 @@
 
 # Lee Jun Hyuk (이준혁) Profile
 
-AI Development Specialist  
-Republic of Korea Navy  
+Reserach Intern  
+Sports Engineering Lab  
+Seoul National University  
 jmjh98@snu.ac.kr
 
 </div>
 
 ## Research Interests
 
-Keywords: Sports Analytics, Sports Engineering, Biomechanics, AI, Data Science, Computer Vision, Nonlinear Dynamics
-
-Passionate about leveraging state-of-the-art technologies to advance the sports industry, focusing on applying artificial intelligence to revolutionize analytics in invasion sports. I view AI as a **“tool that embodies human intuition”** and believe it holds the potential to overcome the unresolved challenges in this domain. Enthusiastic about extracting meaningful insights from complex data and dedicated to developing innovative and practical metrics that drive real-world impact.
+- Musculoskeletal Simulation
+- Biomechanics
+- Artificial Intelligence
+- Computer Vision
+- Nonlinear Dynamics
+- Multi-Agent Reinforcement Learning
 
 ## Education
 
@@ -39,7 +43,7 @@ Exponent based on state space reconstruction with principal components.**
 
 ## Work Experiences
 
-- **Republic of Korea Navy** (Sep. 2023 - Present)  
+- **Republic of Korea Navy** (Sep. 2023 - May. 2025)  
   _AI Development Specialist_, Naval Intelligence Information System Group & Head Quarter Battalion
 - **NCSOFT** (Jan. 2023 - Feb. 2023)  
   _Intern_, Recognition team, Vision AI Lab
