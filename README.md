@@ -4,7 +4,7 @@
 
 # Lee Jun Hyuk (이준혁) Profile
 
-Reserach Intern  
+Research Intern  
 Sports Engineering Lab  
 Seoul National University  
 jmjh98@snu.ac.kr
