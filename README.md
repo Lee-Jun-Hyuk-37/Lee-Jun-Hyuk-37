@@ -39,7 +39,8 @@ Exponent based on state space reconstruction with principal components.**
 ## Research Experiences
 
 - **Sports Engineering Lab** (Jul. 2020 - Aug. 2023)  
-  _Research Intern_
+  _Research Intern_  
+  Advisor: Jooeun Ahn
 
 ## Work Experiences
 
