@@ -5,7 +5,7 @@
 # Lee Jun Hyuk (이준혁) Profile
 
 Visiting Master's Student  
-[NeuMove Lab](neumove.org)  
+[NeuMove Lab](https://neumove.org/)  
 Northeastern University  
 jmjh98@snu.ac.kr
 
