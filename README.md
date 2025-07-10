@@ -4,9 +4,9 @@
 
 # Lee Jun Hyuk (이준혁) Profile
 
-Research Intern  
-Sports Engineering Lab  
-Seoul National University  
+Visiting Master's Student  
+[NeuMove Lab](neumove.org)  
+Northeastern University  
 jmjh98@snu.ac.kr
 
 </div>
